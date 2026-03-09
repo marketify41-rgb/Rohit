@@ -1,1 +1,23 @@
-# Rohit
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Website</title>
+<style>
+body{
+font-family: Arial;
+text-align:center;
+background:#f2f2f2;
+}
+h1{
+color:blue;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Welcome to My Website</h1>
+<p>This website is hosted free on GitHub.</p>
+
+</body>
+</html># Rohit
